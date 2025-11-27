@@ -1,0 +1,20 @@
+{
+    "tyopaikat": [
+      {
+        "tyotehtava": "Lähihoitaja",
+        "tyonantaja": "Vantaan kaupunki",
+        "sijainti": "Myyrmäki"
+      },
+      {
+        "tyotehtava": "Luokanopettaja",
+        "tyonantaja": "Vantaan kaupunki",
+        "sijainti": "Tikkurila"
+      },
+      {
+        "tyotehtava": "IT-tukihenkilö",
+        "tyonantaja": "Vantaan kaupungin IT-palvelut",
+        "sijainti": "Hakunila"
+      }
+    ]
+  }
+  
